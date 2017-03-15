@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        // решение квадратного уравнения на Java
         double a,b,c,d,x1,x2;
         a = 1;
         b = 4;
